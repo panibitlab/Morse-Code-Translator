@@ -58,27 +58,27 @@ The application is divided into independent modules:
 `deleteLastChar()` Removes the last Morse symbol or translated character
 `refreshLCD()` Updates the LCD display 
 
-## Typing & Character Recognition & Delete Function
-
+## Typing & Character Recognition
 <p align="center">
-  <img src="images/Tyoe&Delete.mp4" width="80%">
+  <img src="images/Type.gif" width="80%">
 </p>
 
-The entered Morse symbols are displayed immediately. After a short pause, they are automatically replaced with the corresponding English letter. Holding the button longer removes the most recent input, allowing quick correction while typing.
+The entered Morse symbols are displayed immediately. After a short pause, they are automatically replaced with the corresponding English letter.
+
+## Delete Function
+<p align="center">
+  <img src="images/Delete.gif" width="80%">
+</p>
+
+Holding the button longer removes the most recent input, allowing quick correction while typing.
 
 ## Automatic Scrolling
 
 <p align="center">
-  <img src="images/AutoScroll.mp4" width="80%">
+  <img src="images/AutoScroll.gif" width="80%">
 </p>
 
 When the translated message exceeds the LCD width, the display automatically scrolls to keep the latest characters visible.
-
-## Demo
-
-<p align="center">
-  <img src="images/Hardware.jpg" width="80%">
-</p>
 
 ## ✨ Technologies Used
 
