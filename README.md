@@ -28,23 +28,23 @@ The project is designed to simulate the behavior of a real Morse input device by
 ## ✨ Hardware Components
 
 <p align="center">
-  <img src="images/hardware.jpg" width="75%">
+  <img src="images/Hardware.jpg" width="75%">
 </p>
 
- Arduino UNO   --> Main microcontroller 
- 16x2 I2C LCD  --> Display output 
- Push Button   --> Morse input device 
- Breadboard    --> Circuit prototyping 
- Jumper Wires  --> Connections 
+| Arduino UNO | Main microcontroller |
+| 16x2 I2C LCD | Display output |
+| Push Button | Morse input device |
+| Breadboard | Circuit prototyping |
+| Jumper Wires | Connections |
 
 ## ✨ Circuit Tinkercad Simulation
 
 <p align="center">
-  <img src="images/circuit.png" width="80%">
+  <img src="images/Circuit.png" width="80%">
 </p>
 
 Tinkercad Simulation link:
-https://www.tinkercad.com/things/lhmKM8mP9Lx-morse-code-translator
+> *(https://www.tinkercad.com/things/lhmKM8mP9Lx-morse-code-translator)*
 
 # ✨ Demonstration
 
